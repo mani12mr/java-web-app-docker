@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome Adarsh.1</h2>
+			<h2>Welcome Sarath</h2>
 			<h3>Contact @ +91-7907339295 ,+91-9846733299</h3>
 		</div>	
 	</div>
